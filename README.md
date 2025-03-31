@@ -3,13 +3,12 @@
 <div align="center">
   <h1>👋 Hi there! I'm JinSeok</h1>
   <h2>🚀 Passionate Frontend Developer</h2>
+  <h3>Currently working on AI-powered web and mobile applications</h3>
+  <h3>Love exploring new technologies and building cool projects!</h3>
 </div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok2101)](https://github.com/anuraghazra/github-readme-stats)
-
-  <div style="margin-top: 20px;"></div>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinseok2101)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok2101)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinseok2101)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
