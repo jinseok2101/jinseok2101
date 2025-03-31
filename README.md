@@ -11,9 +11,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=02569B" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=css3&logoColor=3776AB" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
