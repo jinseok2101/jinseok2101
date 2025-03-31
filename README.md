@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
 
 <!--![태그의 이름](https://img.shields.io/badge/ 태그에 적히는 글씨-태그색?style=for-the-badge&logo=로고이름&logoColor=로고색)-->
