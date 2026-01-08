@@ -5,11 +5,7 @@
   <h2>🚀 Passionate Frontend Developer</h2>
 </div>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok2101" alt="Top Langs" />
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
