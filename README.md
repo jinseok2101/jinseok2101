@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Hi there! I'm JinSeok</h1>
-  <h2>🚀 Passionate AI Native Developer</h2>
+  <h2>🚀 Passionate FrontEnd Developer</h2>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok2101)](https://github.com/anuraghazra/github-readme-stats)
