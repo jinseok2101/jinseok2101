@@ -5,7 +5,7 @@
   <h2>🚀 Passionate FrontEnd Developer</h2>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jinseok2101=tulipurple&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok2101&layout=donut)
 
 
 </div>
