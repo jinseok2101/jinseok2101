@@ -5,7 +5,8 @@
   <h2>🚀 Passionate FrontEnd Developer</h2>
   
   <!-- 마크다운 문법 대신 HTML <img> 태그를 직접 사용합니다 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok2101&layout=donut" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jinseok2101&theme=tokyonight" alt="Most Commit Language" />
+
 </div>
 
 <!--내용 부분-->
