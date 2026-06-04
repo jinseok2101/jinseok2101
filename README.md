@@ -3,10 +3,9 @@
 <div align="center">
   <h1>👋 Hi there! I'm JinSeok</h1>
   <h2>🚀 Passionate FrontEnd Developer</h2>
-</div>
-
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok2101&layout=donut)
+  
+  <!-- 마크다운 문법 대신 HTML <img> 태그를 직접 사용합니다 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok2101&layout=donut" alt="Top Langs" />
 </div>
 
 <!--내용 부분-->
