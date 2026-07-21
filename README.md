@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Hi there! I'm JinSeok</h1>
-  <h2>🚀 Passionate FrontEnd Developer</h2>
+  <h2>🚀 Passionate SW Developer</h2>
   
   <!-- 마크다운 문법 대신 HTML <img> 태그를 직접 사용합니다 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jinseok2101&theme=tokyonight" alt="Most Commit Language" />
